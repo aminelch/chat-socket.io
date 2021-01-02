@@ -1,0 +1,29 @@
+{
+  "name": "chat-socket.io-main",
+  "version": "1.0.0",
+  "description": "un chat avec socket io",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminelch/chat-socket.io.git"
+  },
+  "keywords": [
+    "socketio",
+    "chat",
+    "socket-io",
+    "chat-js"
+  ],
+  "author": "aminelch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminelch/chat-socket.io/issues"
+  },
+  "homepage": "https://github.com/aminelch/chat-socket.io#readme"
+}
