@@ -1,6 +1,7 @@
 // On instancie express
 const app = require("express")();
 
+ console.error("test")
 // On crée le serveur http
 const http = require("http").createServer(app);
 
